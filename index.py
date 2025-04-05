@@ -115,4 +115,4 @@ def send_message(service, user_id, message):
 
 
 if __name__ == "__main__":
-    prepare_and_send_email('aaryansharma4@outlook.com', 'Greeting from Aaryan', 'This is a test email', 'requirements.txt')
+    prepare_and_send_email('mail@outlook.com', 'Greeting from Aaryan', 'This is a test email', <attachments><remove this if not required>)
